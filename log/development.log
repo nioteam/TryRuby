@@ -218,3 +218,14 @@ Completed in 2ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=%21INIT%21I
 Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:41:58) [GET]
   Parameters: {"cmd"=>"2+6"}
 Completed in 4ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=2%2B6]
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 15:06:10) [GET]
+Rendering template within layouts/tryruby
+Rendering tryruby/index
+Completed in 19ms (View: 16 | 200 OK [http://localhost/]
+
+
+Processing TutorialsController#intro (for 127.0.0.1 at 2011-10-26 15:06:11) [GET]
+Rendering tutorials/intro
+Completed in 14ms (View: 12 | 200 OK [http://localhost/tutorials/intro]
