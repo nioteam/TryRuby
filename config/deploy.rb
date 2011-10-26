@@ -8,7 +8,7 @@ default_run_options[:pty] = true  # Must be set for the password prompt from git
 set :application, "tryruby"
 
 default_run_options[:pty] = true  # Must be set for the password prompt from git to work
-set :repository, "git@github.com:RabbitZ/TryRuby.git"  # Your clone URL
+set :repository, "git@github.com:mosteam/TryRuby.git"  # Your clone URL
 set :branch, "master"
 set :scm, "git"
 set :user, "tryruby"  # The server's user for deploys
