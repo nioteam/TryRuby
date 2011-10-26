@@ -1,0 +1,188 @@
+# Logfile created on 2011-10-26 14:05:55 +0800
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:06:18) [GET]
+
+Psych::SyntaxError (couldn't parse YAML at line 18 column 14):
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse_stream'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:119:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:106:in `load'
+  <internal:prelude>:10:in `synchronize'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendered rescues/_trace (29.7ms)
+Rendered rescues/_request_and_response (26.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:09:22) [GET]
+
+Psych::SyntaxError (couldn't parse YAML at line 18 column 14):
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse_stream'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:119:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:106:in `load'
+  <internal:prelude>:10:in `synchronize'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendered rescues/_trace (23.2ms)
+Rendered rescues/_request_and_response (2.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:09:50) [GET]
+
+Psych::SyntaxError (couldn't parse YAML at line 18 column 14):
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse_stream'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:119:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:106:in `load'
+  <internal:prelude>:10:in `synchronize'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendered rescues/_trace (23.7ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:10:26) [GET]
+
+Psych::SyntaxError (couldn't parse YAML at line 18 column 14):
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse_stream'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:119:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:106:in `load'
+  <internal:prelude>:10:in `synchronize'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendered rescues/_trace (23.7ms)
+Rendered rescues/_request_and_response (24.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:11:28) [GET]
+
+Psych::SyntaxError (couldn't parse YAML at line 18 column 14):
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse_stream'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:119:in `parse'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:106:in `load'
+  <internal:prelude>:10:in `synchronize'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /home/administrator/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendered rescues/_trace (22.9ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:11:42) [GET]
+Rendering template within layouts/tryruby
+Rendering tryruby/index
+Completed in 29ms (View: 27 | 200 OK [http://localhost/]
+
+
+Processing TutorialsController#intro (for 127.0.0.1 at 2011-10-26 14:11:42) [GET]
+Rendering tutorials/intro
+Completed in 22ms (View: 14 | 200 OK [http://localhost/tutorials/intro]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:11:50) [GET]
+  Parameters: {"cmd"=>"!INIT!IRB!"}
+Completed in 2ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=%21INIT%21IRB%21]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:11:50) [GET]
+  Parameters: {"cmd"=>"2+6"}
+Completed in 27ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=2%2B6]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:11:55) [GET]
+  Parameters: {"cmd"=>"Jimmy\""}
+Completed in 2ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=Jimmy%22]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:12:05) [GET]
+  Parameters: {"cmd"=>"2+6"}
+Completed in 4ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=2%2B6]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:12:33) [GET]
+  Parameters: {"cmd"=>"2"}
+Completed in 4ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=2]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:12:37) [GET]
+  Parameters: {"cmd"=>"\"Jimmy\""}
+Completed in 4ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=%22Jimmy%22]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:12:41) [GET]
+  Parameters: {"cmd"=>"\"Jimmy\".reverse"}
+Completed in 4ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=%22Jimmy%22.reverse]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:12:47) [GET]
+  Parameters: {"cmd"=>"\"Jimmy\".length"}
+Completed in 3ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=%22Jimmy%22.length]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:12:53) [GET]
+  Parameters: {"cmd"=>"\"Jimmy\" * 5"}
+Completed in 28ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=%22Jimmy%22%20*%205]
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:22:43) [GET]
+Rendering template within layouts/tryruby
+Rendering tryruby/index
+Completed in 15ms (View: 14 | 200 OK [http://localhost/]
+
+
+Processing TutorialsController#intro (for 127.0.0.1 at 2011-10-26 14:22:43) [GET]
+Rendering tutorials/intro
+Completed in 14ms (View: 13 | 200 OK [http://localhost/tutorials/intro]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:22:49) [GET]
+  Parameters: {"cmd"=>"!INIT!IRB!"}
+Completed in 2ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=%21INIT%21IRB%21]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:22:49) [GET]
+  Parameters: {"cmd"=>"2+6"}
+Completed in 28ms (View: 1 | 200 OK [http://localhost/tryruby/run?cmd=2%2B6]
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:29:28) [GET]
+Rendering template within layouts/tryruby
+Rendering tryruby/index
+Completed in 18ms (View: 16 | 200 OK [http://localhost/]
+
+
+Processing TutorialsController#intro (for 127.0.0.1 at 2011-10-26 14:29:29) [GET]
+Rendering tutorials/intro
+Completed in 14ms (View: 13 | 200 OK [http://localhost/tutorials/intro]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:29:53) [GET]
+  Parameters: {"cmd"=>"!INIT!IRB!"}
+Completed in 1ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=%21INIT%21IRB%21]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:29:53) [GET]
+  Parameters: {"cmd"=>"2+6"}
+Completed in 4ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=2%2B6]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:29:56) [GET]
+  Parameters: {"cmd"=>"end"}
+Completed in 2ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=end]
