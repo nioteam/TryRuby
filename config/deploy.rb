@@ -1,11 +1,11 @@
 $:.unshift(File.expand_path('./lib', ENV['rvm_path'])) # Add RVM's lib directory to the load path.
 require "rvm/capistrano"                  # Load RVM's capistrano plugin.
-set :rvm_ruby_string, 'ree'
+set :rvm_ruby_string, '1.9.2'
 
 require 'bundler/capistrano'
 
 default_run_options[:pty] = true  # Must be set for the password prompt from git to work
-set :application, "TryRuby"
+set :application, "tryruby"
 
 default_run_options[:pty] = true  # Must be set for the password prompt from git to work
 set :repository, "git@github.com:RabbitZ/TryRuby.git"  # Your clone URL
