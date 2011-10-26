@@ -186,3 +186,35 @@ Completed in 4ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=2%2B6]
 Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:29:56) [GET]
   Parameters: {"cmd"=>"end"}
 Completed in 2ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=end]
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:34:08) [GET]
+Rendering template within layouts/tryruby
+Rendering tryruby/index
+Completed in 16ms (View: 15 | 200 OK [http://localhost/]
+
+
+Processing TutorialsController#intro (for 127.0.0.1 at 2011-10-26 14:34:09) [GET]
+Rendering tutorials/intro
+Completed in 16ms (View: 15 | 200 OK [http://localhost/tutorials/intro]
+
+
+Processing TryrubyController#index (for 127.0.0.1 at 2011-10-26 14:41:50) [GET]
+Rendering template within layouts/tryruby
+Rendering tryruby/index
+Completed in 16ms (View: 15 | 200 OK [http://localhost/]
+
+
+Processing TutorialsController#intro (for 127.0.0.1 at 2011-10-26 14:41:51) [GET]
+Rendering tutorials/intro
+Completed in 16ms (View: 14 | 200 OK [http://localhost/tutorials/intro]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:41:58) [GET]
+  Parameters: {"cmd"=>"!INIT!IRB!"}
+Completed in 2ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=%21INIT%21IRB%21]
+
+
+Processing TryrubyController#run (for 127.0.0.1 at 2011-10-26 14:41:58) [GET]
+  Parameters: {"cmd"=>"2+6"}
+Completed in 4ms (View: 0 | 200 OK [http://localhost/tryruby/run?cmd=2%2B6]

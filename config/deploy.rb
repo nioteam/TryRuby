@@ -8,11 +8,11 @@ default_run_options[:pty] = true  # Must be set for the password prompt from git
 set :application, "TryRuby"
 
 default_run_options[:pty] = true  # Must be set for the password prompt from git to work
-set :repository, "git@github.com:mosteam/TryRuby.git"  # Your clone URL
+set :repository, "git@github.com:RabbitZ/TryRuby.git"  # Your clone URL
 set :branch, "master"
 set :scm, "git"
-set :user, "TryRuby"  # The server's user for deploys
-set :deploy_to, "/var/rails/TryRuby"
+set :user, "tryruby"  # The server's user for deploys
+set :deploy_to, "/var/rails/tryruby"
 set :deploy_via, :remote_cache
 set :use_sudo, false
 
@@ -34,7 +34,7 @@ namespace :deploy do
   desc "Compile assets"
   task :assets do
     run "cd #{current_path}; chmod -R 0777 public/"
-    run "cd #{current_path}; RAILS_ENV=production rake assets:precompile"
+    #run "cd #{current_path}; RAILS_ENV=production rake assets:precompile"
   end
 
   task :stop, :roles => :app do
@@ -58,4 +58,4 @@ namespace :deploy do
 end
 
 after 'deploy:update_code', 'deploy:symlink_shared'
-after "deploy:symlink_shared", "deploy:assets"
+#after "deploy:symlink_shared", "deploy:assets"
